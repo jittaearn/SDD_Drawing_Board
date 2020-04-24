@@ -12,7 +12,7 @@ public class Window extends JFrame {
 	private JPanel bottomPanel = new JPanel();
 	private DrawingBoard drawPanel = new DrawingBoard();
 
-	private JTextField fieldX = new InputField("400");
+  	private JTextField fieldX = new InputField("400");
 	private JTextField fieldY = new InputField("300");
 	private JTextField fieldWidth = new InputField("50");
 	private JTextField fieldHeight = new InputField("50");
